@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/piyush-shar/piyush-shar/blob/main/1643262302469.jpeg)](https://www.linkedin.com/in/piyush-shar/)
 <h1 align="center">Hi 👋, I'm Piyush Sharma</h1>
 <h3 align="center">Cloud Security Engineer</h3>
 
