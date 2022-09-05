@@ -1,6 +1,8 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Piyush!](https://www.linkedin.com/in/piyush-shar/) 
 
 ![](https://github.com/piyush-shar/piyush-shar/blob/main/1643262302469.jpeg)
+<h3 align="center"></h3>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-shar&&theme=tokyonight" alt="piyush-shar" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,5 +20,4 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="50"/> </a>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-shar&&theme=tokyonight" alt="piyush-shar" />
 </p>
