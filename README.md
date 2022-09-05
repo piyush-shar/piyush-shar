@@ -4,8 +4,6 @@
 
 <h3 align="center">Cloud Security Engineer</h3>
 
-- 📫 How to reach me **piyush.pradhan627@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyush-shar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-shar" height="30" width="40" /></a>
