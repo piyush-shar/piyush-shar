@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Piyush Sharma</h1>
-[![MasterHead](https://github.com/piyush-shar/piyush-shar/blob/main/1643262302469.jpeg)](https://www.linkedin.com/in/piyush-shar/)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Piyush!](https://www.linkedin.com/in/piyush-shar/) 
+
+![](https://github.com/piyush-shar/piyush-shar/blob/main/1643262302469.jpeg)
+
 <h3 align="center">Cloud Security Engineer</h3>
 
 - 📫 How to reach me **piyush.pradhan627@gmail.com**
@@ -7,7 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyush-shar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-shar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/piyushsharma92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="piyushsharma92" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
